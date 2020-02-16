@@ -28,3 +28,7 @@ An Elasticsearch-head requires CORS enabled on Elasticsearch cluster:
 Usage
 --------
 ```docker run --rm -p 9100:9100 slydeveloper/elasticsearch-head```
+
+Screenshot
+-----
+![Screen](screen.png)
